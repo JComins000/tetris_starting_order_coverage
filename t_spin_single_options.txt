@@ -1,0 +1,720 @@
+tiojlsz 1e, 2e, 3e, 5e, 7
+tiojlzs 1e, 2e, 3e, 5e, 7
+tiojslz 1e, 2e, 3e, 4f, 5, 7
+tiojszl 1e, 2f, 3f, 4f, 5, 7
+tiojzls 1e, 2f, 3f, 5e, 7
+tiojzsl 1e, 2f, 3f, 4f, 5, 7
+tioljsz 1e, 2e, 3e, 5e, 7f
+tioljzs 1e, 2e, 3e, 5e, 7f
+tiolsjz 1e, 2, 3, 5e, 7f
+tiolszj 1e, 2, 3, 4, 5f, 7f
+tiolzjs 1e, 2e, 3e, 4, 5f, 7f
+tiolzsj 1e, 2, 3, 4, 5f, 7f
+tiosjlz 1e, 2, 3, 4f, 5, 7
+tiosjzl 1e, 4f, 5, 7
+tiosljz 1e, 2, 3, 4f, 5, 7f
+tioslzj 1e, 2, 3, 4e, 7f
+tioszjl 1e, 4e, 7
+tioszlj 1e, 4e, 7f
+tiozjls 1e, 2f, 3f, 4, 5f, 7
+tiozjsl 1e, 2f, 3f, 4e, 7
+tiozljs 1e, 2f, 3f, 4, 5f, 7f
+tiozlsj 1e, 4, 5f, 7f
+tiozsjl 1e, 4e, 7
+tiozslj 1e, 4e, 7f
+tijolsz 1e, 2f, 3f, 5e, 7
+tijolzs 1e, 2f, 3f, 5e, 7
+tijoslz 1e, 2f, 3f, 5, 7
+tijoszl 1e, 2f, 3f, 5, 7
+tijozls 1e, 2f, 3f, 5e, 7
+tijozsl 1e, 2f, 3f, 5, 7
+tijlosz 1e, 5e, 7
+tijlozs 1e, 5e, 7
+tijlsoz 1e, 5e, 7
+tijlszo 1e, 5e, 7
+tijlzos 1e, 5e, 7
+tijlzso 1e, 5e, 7
+tijsolz 1e, 2f, 3f, 5, 7
+tijsozl 1e, 2f, 3f, 5, 7
+tijsloz 1e, 5, 7
+tijslzo 1e, 5, 7
+tijszol 1e, 2f, 3f, 5, 7
+tijszlo 1e, 5, 7
+tijzols 1e, 2f, 3f, 5e, 7
+tijzosl 1e, 2f, 3f, 5, 7
+tijzlos 1e, 5e, 7
+tijzlso 1e, 5e, 7
+tijzsol 1e, 2f, 3f, 5, 7
+tijzslo 1e, 5, 7
+tilojsz 1e, 2, 3, 5e, 7f
+tilojzs 1e, 2, 3, 5e, 7f
+tilosjz 1e, 2, 3, 5e, 7f
+tiloszj 1e, 2, 3, 5f, 7f
+tilozjs 1e, 2, 3, 5f, 7f
+tilozsj 1e, 2, 3, 5f, 7f
+tiljosz 1e, 5e, 7f
+tiljozs 1e, 5e, 7f
+tiljsoz 1e, 5e, 7f
+tiljszo 1e, 5e, 7f
+tiljzos 1e, 5e, 7f
+tiljzso 1e, 5e, 7f
+tilsojz 1e, 2, 3, 5e, 7f
+tilsozj 1e, 2, 3, 5f, 7f
+tilsjoz 1e, 5e, 7f
+tilsjzo 1e, 5e, 7f
+tilszoj 1e, 2, 3, 5f, 7f
+tilszjo 1e, 5f, 7f
+tilzojs 1e, 2, 3, 5f, 7f
+tilzosj 1e, 2, 3, 5f, 7f
+tilzjos 1e, 5f, 7f
+tilzjso 1e, 5f, 7f
+tilzsoj 1e, 2, 3, 5f, 7f
+tilzsjo 1e, 5f, 7f
+tisojlz 1e, 2, 3, 4f, 5, 7
+tisojzl 1e, 4f, 5, 7
+tisoljz 1e, 2, 3, 4f, 5, 7f
+tisolzj 1e, 2, 3, 4e, 7f
+tisozjl 1e, 4e, 7
+tisozlj 1e, 4e, 7f
+tisjolz 1e, 3f, 5, 7
+tisjozl 1e, 3f, 5, 7
+tisjloz 1e, 5, 7
+tisjlzo 1e, 5, 7
+tisjzol 1e, 3f, 5, 7
+tisjzlo 1e, 5, 7
+tislojz 1e, 2, 3, 4f, 5, 7f
+tislozj 1e, 2, 3, 4f, 7f
+tisljoz 1e, 5, 7f
+tisljzo 1e, 5, 7f
+tislzoj 1e, 2, 3, 4f, 7f
+tislzjo 1e, 7f
+tiszojl 1e, 4e, 7
+tiszolj 1e, 4e, 7f
+tiszjol 1e, 3f, 4, 7
+tiszjlo 1e, 7
+tiszloj 1e, 3, 4f, 7f
+tiszljo 1e, 7f
+tizojls 1e, 2f, 3f, 4, 5f, 7
+tizojsl 1e, 2f, 3f, 4e, 7
+tizoljs 1e, 2f, 3f, 4, 5f, 7f
+tizolsj 1e, 4, 5f, 7f
+tizosjl 1e, 4e, 7
+tizoslj 1e, 4e, 7f
+tizjols 1e, 2f, 3f, 4, 5f, 7
+tizjosl 1e, 2f, 3f, 4, 7
+tizjlos 1e, 5f, 7
+tizjlso 1e, 5f, 7
+tizjsol 1e, 2f, 3f, 4, 7
+tizjslo 1e, 7
+tizlojs 1e, 3, 5f, 7f
+tizlosj 1e, 3, 5f, 7f
+tizljos 1e, 5f, 7f
+tizljso 1e, 5f, 7f
+tizlsoj 1e, 3, 5f, 7f
+tizlsjo 1e, 5f, 7f
+tizsojl 1e, 4e, 7
+tizsolj 1e, 4e, 7f
+tizsjol 1e, 3f, 4, 7
+tizsjlo 1e, 7
+tizsloj 1e, 3, 4f, 7f
+tizsljo 1e, 7f
+toijlsz 1e, 2e, 3e, 7
+toijlzs 1e, 2e, 3e, 7
+toijslz 1e, 2e, 3e, 4f, 7
+toijszl 1e, 2f, 3f, 4f, 7
+toijzls 1e, 2f, 3f, 7
+toijzsl 1e, 2f, 3f, 4f, 7
+toiljsz 1e, 2e, 3e, 7f
+toiljzs 1e, 2e, 3e, 7f
+toilsjz 1e, 2, 3, 7f
+toilszj 1e, 2, 3, 4, 7f
+toilzjs 1e, 2e, 3e, 4, 7f
+toilzsj 1e, 2, 3, 4, 7f
+toisjlz 1e, 2, 3, 4f, 7
+toisjzl 1e, 4f, 7
+toisljz 1e, 2, 3, 4f, 7f
+toislzj 1e, 2, 3, 4e, 7f
+toiszjl 1e, 4e, 7
+toiszlj 1e, 4e, 7f
+toizjls 1e, 2f, 3f, 4, 7
+toizjsl 1e, 2f, 3f, 4e, 7
+toizljs 1e, 2f, 3f, 4, 7f
+toizlsj 1e, 4, 7f
+toizsjl 1e, 4e, 7
+toizslj 1e, 4e, 7f
+tojilsz 1e, 2e, 3e
+tojilzs 1e, 2e, 3e
+tojislz 1e, 2e, 3e, 4f
+tojiszl 1e, 2f, 3f, 4f
+tojizls 1e, 2f, 3f
+tojizsl 1e, 2f, 3f, 4f
+tojlisz 1e, 2e, 3e
+tojlizs 1e, 2e, 3e
+tojlsiz 1, 2e, 3e
+tojlszi 2e, 3e
+tojlzis 1f, 2e, 3e
+tojlzsi 2e, 3e
+tojsilz 1, 2e, 3e
+tojsizl 1, 2f, 3f
+tojsliz 1, 2e, 3e
+tojslzi 2e, 3e
+tojszil 2f, 3f, 4
+tojszli 2e, 3f
+tojzils 1f, 2f, 3f, 4
+tojzisl 1f, 2f, 3f, 4e
+tojzlis 1f, 2e, 3f
+tojzlsi 2e, 3f
+tojzsil 2f, 3f, 4
+tojzsli 2e, 3f
+tolijsz 1e, 2e, 3e
+tolijzs 1e, 2e, 3e
+tolisjz 1e, 2, 3
+toliszj 1e, 2, 3, 4
+tolizjs 1e, 2e, 3e, 4
+tolizsj 1e, 2, 3, 4
+toljisz 1e, 2e, 3e
+toljizs 1e, 2e, 3e
+toljsiz 1, 2e, 3e
+toljszi 2e, 3e
+toljzis 1f, 2e, 3e
+toljzsi 2e, 3e
+tolsijz 1, 2, 3, 4f
+tolsizj 1, 2, 3, 4e
+tolsjiz 1, 2e, 3
+tolsjzi 2e, 3
+tolszij 2, 3, 4f
+tolszji 2e, 3
+tolzijs 1f, 2e, 3e
+tolzisj 1f, 2, 3
+tolzjis 1f, 2e, 3e
+tolzjsi 2e, 3e
+tolzsij 2, 3, 4f
+tolzsji 2e, 3
+tosijlz 1, 2, 3, 4f, 7
+tosijzl 1, 4f, 7
+tosiljz 1, 2, 3, 4f
+tosilzj 1, 2, 3, 4e
+tosizjl 1, 4e, 7
+tosizlj 1, 4e
+tosjilz 1, 2e, 3
+tosjizl 1, 2f
+tosjliz 1, 2e, 3
+tosjlzi 2e, 3
+tosjzil 2f, 4
+tosjzli 2e
+toslijz 1, 2, 3, 4f
+toslizj 1, 2, 3, 4e
+tosljiz 1, 2e, 3
+tosljzi 2e, 3
+toslzij 2, 3, 4f
+toslzji 2e, 3
+toszijl 4e
+toszilj 4e
+toszjil 2f, 4
+toszjli 2e
+toszlij 2, 4f
+toszlji 2e
+tozijls 1f, 2f, 3f, 4
+tozijsl 1f, 2f, 3f, 4e
+toziljs 1f, 2f, 3f, 4, 7f
+tozilsj 1f, 4, 7f
+tozisjl 1f, 4e
+tozislj 1f, 4e, 7f
+tozjils 1f, 2f, 3f, 4
+tozjisl 1f, 2f, 3f, 4e
+tozjlis 1f, 2e, 3f
+tozjlsi 2e, 3f
+tozjsil 2f, 3f, 4
+tozjsli 2e, 3f
+tozlijs 1f, 2e, 3f
+tozlisj 1f, 2
+tozljis 1f, 2e, 3f
+tozljsi 2e, 3f
+tozlsij 2, 4f
+tozlsji 2e
+tozsijl 4e
+tozsilj 4e
+tozsjil 2f, 4
+tozsjli 2e
+tozslij 2, 4f
+tozslji 2e
+tjiolsz 1e, 2f, 3f, 5e
+tjiolzs 1e, 2f, 3f, 5e
+tjioslz 1e, 2f, 3f, 5
+tjioszl 1e, 2f, 3f, 5
+tjiozls 1e, 2f, 3f, 5e
+tjiozsl 1e, 2f, 3f, 5
+tjilosz 1e, 5e, 6
+tjilozs 1e, 5e, 6
+tjilsoz 1e, 5e, 6
+tjilszo 1e, 5e, 6
+tjilzos 1e, 5e, 6
+tjilzso 1e, 5e, 6
+tjisolz 1e, 2f, 3f, 5
+tjisozl 1e, 2f, 3f, 5
+tjisloz 1e, 5, 6
+tjislzo 1e, 5, 6
+tjiszol 1e, 2f, 3f, 5
+tjiszlo 1e, 5, 6
+tjizols 1e, 2f, 3f, 5e
+tjizosl 1e, 2f, 3f, 5
+tjizlos 1e, 5e, 6
+tjizlso 1e, 5e, 6
+tjizsol 1e, 2f, 3f, 5
+tjizslo 1e, 5, 6
+tjoilsz 1e, 2e, 3f
+tjoilzs 1e, 2e, 3f
+tjoislz 1e, 2e, 3f
+tjoiszl 1e, 2f, 3f
+tjoizls 1e, 2f, 3f
+tjoizsl 1e, 2f, 3f
+tjolisz 1e, 2e, 3f, 6f
+tjolizs 1e, 2e, 3f, 6f
+tjolsiz 1, 2e, 3f, 6f
+tjolszi 2e, 3f, 6f
+tjolzis 1f, 2e, 3f, 6f
+tjolzsi 2e, 3f, 6f
+tjosilz 1, 2e, 3f
+tjosizl 1, 2f, 3f
+tjosliz 1, 2e, 3f, 6f
+tjoslzi 2e, 3f, 6f
+tjoszil 2f, 3f, 4
+tjoszli 2e, 3f, 6f
+tjozils 1f, 2f, 3f, 4
+tjozisl 1f, 2f, 3f, 4
+tjozlis 1f, 2e, 3f, 6f
+tjozlsi 2e, 3f, 6f
+tjozsil 2f, 3f, 4
+tjozsli 2e, 3f, 6f
+tjliosz 1e, 5e, 6e
+tjliozs 1e, 5e, 6e
+tjlisoz 1e, 5e, 6e
+tjliszo 1e, 5e, 6e
+tjlizos 1e, 5e, 6e
+tjlizso 1e, 5e, 6e
+tjloisz 1e, 2e, 6e
+tjloizs 1e, 2e, 6e
+tjlosiz 1, 2e, 6e
+tjloszi 2e, 6e
+tjlozis 1f, 2e, 6e
+tjlozsi 2e, 6e
+tjlsioz 1, 5e, 6e
+tjlsizo 1, 5e, 6e
+tjlsoiz 1, 2e, 6e
+tjlsozi 2e, 6e
+tjlszio 5e, 6e
+tjlszoi 2e, 6e
+tjlzios 1f, 5e, 6e
+tjlziso 1f, 5e, 6e
+tjlzois 1f, 2e, 6e
+tjlzosi 2e, 6e
+tjlzsio 5e, 6e
+tjlzsoi 2e, 6e
+tjsiolz 1, 2f, 3f, 5
+tjsiozl 1, 2f, 3f, 5
+tjsiloz 1, 5, 6
+tjsilzo 1, 5, 6
+tjsizol 1, 2f, 3f, 5
+tjsizlo 1, 5, 6
+tjsoilz 1, 2e, 3f
+tjsoizl 1, 2f, 3f
+tjsoliz 1, 2e, 3f, 6f
+tjsolzi 2e, 3f, 6f
+tjsozil 2f, 3f, 4
+tjsozli 2e, 3f, 6f
+tjslioz 1, 5, 6e
+tjslizo 1, 5, 6e
+tjsloiz 1, 2e, 6e
+tjslozi 2e, 6e
+tjslzio 5, 6e
+tjslzoi 2e, 6e
+tjsziol 2f, 3f, 4, 5
+tjszilo 5, 6
+tjszoil 2f, 3f, 4
+tjszoli 2e, 3f, 6f
+tjszlio 5, 6e
+tjszloi 2e, 6e
+tjziols 1f, 2f, 3f, 4, 5e
+tjziosl 1f, 2f, 3f, 4, 5
+tjzilos 1f, 5e, 6
+tjzilso 1f, 5e, 6
+tjzisol 1f, 2f, 3f, 4, 5
+tjzislo 1f, 5, 6
+tjzoils 1f, 2f, 3f, 4
+tjzoisl 1f, 2f, 3f, 4
+tjzolis 1f, 2e, 3f, 6f
+tjzolsi 2e, 3f, 6f
+tjzosil 2f, 3f, 4
+tjzosli 2e, 3f, 6f
+tjzlios 1f, 5e, 6e
+tjzliso 1f, 5e, 6e
+tjzlois 1f, 2e, 6e
+tjzlosi 2e, 6e
+tjzlsio 5e, 6e
+tjzlsoi 2e, 6e
+tjzsiol 2f, 3f, 4, 5
+tjzsilo 5, 6
+tjzsoil 2f, 3f, 4
+tjzsoli 2e, 3f, 6f
+tjzslio 5, 6e
+tjzsloi 2e, 6e
+tliojsz 1e, 2, 3, 5e
+tliojzs 1e, 2, 3, 5e
+tliosjz 1e, 2, 3, 5e
+tlioszj 1e, 2, 3, 5f
+tliozjs 1e, 2, 3, 5f
+tliozsj 1e, 2, 3, 5f
+tlijosz 1e, 5e, 6f
+tlijozs 1e, 5e, 6f
+tlijsoz 1e, 5e, 6f
+tlijszo 1e, 5e, 6f
+tlijzos 1e, 5e, 6f
+tlijzso 1e, 5e, 6f
+tlisojz 1e, 2, 3, 5e
+tlisozj 1e, 2, 3, 5f
+tlisjoz 1e, 5e, 6f
+tlisjzo 1e, 5e, 6f
+tliszoj 1e, 2, 3, 5f
+tliszjo 1e, 5f, 6f
+tlizojs 1e, 2, 3, 5f
+tlizosj 1e, 2, 3, 5f
+tlizjos 1e, 5f, 6f
+tlizjso 1e, 5f, 6f
+tlizsoj 1e, 2, 3, 5f
+tlizsjo 1e, 5f, 6f
+tloijsz 1e, 2e, 3
+tloijzs 1e, 2e, 3
+tloisjz 1e, 2, 3
+tloiszj 1e, 2, 3
+tloizjs 1e, 2e, 3
+tloizsj 1e, 2, 3
+tlojisz 1e, 2e, 3, 6
+tlojizs 1e, 2e, 3, 6
+tlojsiz 1, 2e, 3, 6
+tlojszi 2e, 3, 6
+tlojzis 1f, 2e, 3, 6
+tlojzsi 2e, 3, 6
+tlosijz 1, 2, 3, 4f
+tlosizj 1, 2, 3, 4f
+tlosjiz 1, 2e, 3, 6
+tlosjzi 2e, 3, 6
+tloszij 2, 3, 4f
+tloszji 2e, 3, 6
+tlozijs 1f, 2e, 3
+tlozisj 1f, 2, 3
+tlozjis 1f, 2e, 3, 6
+tlozjsi 2e, 3, 6
+tlozsij 2, 3, 4f
+tlozsji 2e, 3, 6
+tljiosz 1e, 5e, 6e
+tljiozs 1e, 5e, 6e
+tljisoz 1e, 5e, 6e
+tljiszo 1e, 5e, 6e
+tljizos 1e, 5e, 6e
+tljizso 1e, 5e, 6e
+tljoisz 1e, 2e, 6e
+tljoizs 1e, 2e, 6e
+tljosiz 1, 2e, 6e
+tljoszi 2e, 6e
+tljozis 1f, 2e, 6e
+tljozsi 2e, 6e
+tljsioz 1, 5e, 6e
+tljsizo 1, 5e, 6e
+tljsoiz 1, 2e, 6e
+tljsozi 2e, 6e
+tljszio 5e, 6e
+tljszoi 2e, 6e
+tljzios 1f, 5e, 6e
+tljziso 1f, 5e, 6e
+tljzois 1f, 2e, 6e
+tljzosi 2e, 6e
+tljzsio 5e, 6e
+tljzsoi 2e, 6e
+tlsiojz 1, 2, 3, 4f, 5e
+tlsiozj 1, 2, 3, 4f, 5f
+tlsijoz 1, 5e, 6f
+tlsijzo 1, 5e, 6f
+tlsizoj 1, 2, 3, 4f, 5f
+tlsizjo 1, 5f, 6f
+tlsoijz 1, 2, 3, 4f
+tlsoizj 1, 2, 3, 4f
+tlsojiz 1, 2e, 3, 6
+tlsojzi 2e, 3, 6
+tlsozij 2, 3, 4f
+tlsozji 2e, 3, 6
+tlsjioz 1, 5e, 6e
+tlsjizo 1, 5e, 6e
+tlsjoiz 1, 2e, 6e
+tlsjozi 2e, 6e
+tlsjzio 5e, 6e
+tlsjzoi 2e, 6e
+tlszioj 2, 3, 4f, 5f
+tlszijo 5f, 6f
+tlszoij 2, 3, 4f
+tlszoji 2e, 3, 6
+tlszjio 5f, 6e
+tlszjoi 2e, 6e
+tlziojs 1f, 2, 3, 5f
+tlziosj 1f, 2, 3, 5f
+tlzijos 1f, 5f, 6f
+tlzijso 1f, 5f, 6f
+tlzisoj 1f, 2, 3, 5f
+tlzisjo 1f, 5f, 6f
+tlzoijs 1f, 2e, 3
+tlzoisj 1f, 2, 3
+tlzojis 1f, 2e, 3, 6
+tlzojsi 2e, 3, 6
+tlzosij 2, 3, 4f
+tlzosji 2e, 3, 6
+tlzjios 1f, 5f, 6e
+tlzjiso 1f, 5f, 6e
+tlzjois 1f, 2e, 6e
+tlzjosi 2e, 6e
+tlzjsio 5f, 6e
+tlzjsoi 2e, 6e
+tlzsioj 2, 3, 4f, 5f
+tlzsijo 5f, 6f
+tlzsoij 2, 3, 4f
+tlzsoji 2e, 3, 6
+tlzsjio 5f, 6e
+tlzsjoi 2e, 6e
+tsiojlz 1, 2, 3, 4f, 5, 7
+tsiojzl 1, 4f, 5, 7
+tsioljz 1, 2, 3, 4f, 5, 7f
+tsiolzj 1, 2, 3, 4e, 7f
+tsiozjl 1, 4e, 7
+tsiozlj 1, 4e, 7f
+tsijolz 1, 3f, 5, 7
+tsijozl 1, 3f, 5, 7
+tsijloz 1, 5, 7
+tsijlzo 1, 5, 7
+tsijzol 1, 3f, 5, 7
+tsijzlo 1, 5, 7
+tsilojz 1, 2, 3, 4f, 5, 7f
+tsilozj 1, 2, 3, 4f, 7f
+tsiljoz 1, 5, 7f
+tsiljzo 1, 5, 7f
+tsilzoj 1, 2, 3, 4f, 7f
+tsilzjo 1, 7f
+tsizojl 1, 4e, 7
+tsizolj 1, 4e, 7f
+tsizjol 1, 3f, 4, 7
+tsizjlo 1, 7
+tsizloj 1, 3, 4f, 7f
+tsizljo 1, 7f
+tsoijlz 1, 2, 3, 4f, 7
+tsoijzl 1, 4f, 7
+tsoiljz 1, 2, 3, 4f
+tsoilzj 1, 2, 3, 4e
+tsoizjl 1, 4e, 7
+tsoizlj 1, 4e
+tsojilz 1, 2e, 3
+tsojizl 1, 2f
+tsojliz 1, 2e, 3
+tsojlzi 2e, 3
+tsojzil 2f, 4
+tsojzli 2e
+tsolijz 1, 2, 3, 4f
+tsolizj 1, 2, 3, 4e
+tsoljiz 1, 2e, 3
+tsoljzi 2e, 3
+tsolzij 2, 3, 4f
+tsolzji 2e, 3
+tsozijl 4e
+tsozilj 4e
+tsozjil 2f, 4
+tsozjli 2e
+tsozlij 2, 4f
+tsozlji 2e
+tsjiolz 1, 2f, 3f, 5
+tsjiozl 1, 2f, 3f, 5
+tsjiloz 1, 5, 6
+tsjilzo 1, 5, 6
+tsjizol 1, 2f, 3f, 5
+tsjizlo 1, 5, 6
+tsjoilz 1, 2e, 3f
+tsjoizl 1, 2f, 3f
+tsjoliz 1, 2e, 3f, 6f
+tsjolzi 2e, 3f, 6f
+tsjozil 2f, 3f, 4
+tsjozli 2e, 3f, 6f
+tsjlioz 1, 5, 6e
+tsjlizo 1, 5, 6e
+tsjloiz 1, 2e, 6e
+tsjlozi 2e, 6e
+tsjlzio 5, 6e
+tsjlzoi 2e, 6e
+tsjziol 2f, 3f, 4, 5
+tsjzilo 5, 6
+tsjzoil 2f, 3f, 4
+tsjzoli 2e, 3f, 6f
+tsjzlio 5, 6e
+tsjzloi 2e, 6e
+tsliojz 1, 2, 3, 4f, 5
+tsliozj 1, 2, 3, 4f
+tslijoz 1, 5, 6f
+tslijzo 1, 5, 6f
+tslizoj 1, 2, 3, 4f
+tslizjo 1, 6f
+tsloijz 1, 2, 3, 4f
+tsloizj 1, 2, 3, 4f
+tslojiz 1, 2e, 3, 6
+tslojzi 2e, 3, 6
+tslozij 2, 3, 4f
+tslozji 2e, 3, 6
+tsljioz 1, 5, 6e
+tsljizo 1, 5, 6e
+tsljoiz 1, 2e, 6e
+tsljozi 2e, 6e
+tsljzio 5, 6e
+tsljzoi 2e, 6e
+tslzioj 2, 3, 4f
+tslzijo 6f
+tslzoij 2, 3, 4f
+tslzoji 2e, 3, 6
+tslzjio 6e
+tslzjoi 2e, 6e
+tsziojl 4e, 7
+tsziolj 4e, 7f
+tszijol 3f, 4, 7
+tszijlo 7
+tsziloj 3, 4f, 7f
+tsziljo 7f
+tszoijl 4e
+tszoilj 4e
+tszojil 2f, 4
+tszojli 2e
+tszolij 2, 4f
+tszolji 2e
+tszjiol 2f, 3f, 4
+tszjilo 6
+tszjoil 2f, 3f, 4
+tszjoli 2e, 3f, 6f
+tszjlio 6e
+tszjloi 2e, 6e
+tszlioj 2, 3, 4f
+tszlijo 6f
+tszloij 2, 3, 4f
+tszloji 2e, 3, 6
+tszljio 6e
+tszljoi 2e, 6e
+tziojls 1f, 2f, 3f, 4, 5f, 7
+tziojsl 1f, 2f, 3f, 4e, 7
+tzioljs 1f, 2f, 3f, 4, 5f, 7f
+tziolsj 1f, 4, 5f, 7f
+tziosjl 1f, 4e, 7
+tzioslj 1f, 4e, 7f
+tzijols 1f, 2f, 3f, 4, 5f, 7
+tzijosl 1f, 2f, 3f, 4, 7
+tzijlos 1f, 5f, 7
+tzijlso 1f, 5f, 7
+tzijsol 1f, 2f, 3f, 4, 7
+tzijslo 1f, 7
+tzilojs 1f, 3, 5f, 7f
+tzilosj 1f, 3, 5f, 7f
+tziljos 1f, 5f, 7f
+tziljso 1f, 5f, 7f
+tzilsoj 1f, 3, 5f, 7f
+tzilsjo 1f, 5f, 7f
+tzisojl 1f, 4e, 7
+tzisolj 1f, 4e, 7f
+tzisjol 1f, 3f, 4, 7
+tzisjlo 1f, 7
+tzisloj 1f, 3, 4f, 7f
+tzisljo 1f, 7f
+tzoijls 1f, 2f, 3f, 4
+tzoijsl 1f, 2f, 3f, 4e
+tzoiljs 1f, 2f, 3f, 4, 7f
+tzoilsj 1f, 4, 7f
+tzoisjl 1f, 4e
+tzoislj 1f, 4e, 7f
+tzojils 1f, 2f, 3f, 4
+tzojisl 1f, 2f, 3f, 4e
+tzojlis 1f, 2e, 3f
+tzojlsi 2e, 3f
+tzojsil 2f, 3f, 4
+tzojsli 2e, 3f
+tzolijs 1f, 2e, 3f
+tzolisj 1f, 2
+tzoljis 1f, 2e, 3f
+tzoljsi 2e, 3f
+tzolsij 2, 4f
+tzolsji 2e
+tzosijl 4e
+tzosilj 4e
+tzosjil 2f, 4
+tzosjli 2e
+tzoslij 2, 4f
+tzoslji 2e
+tzjiols 1f, 2f, 3f, 4, 5f
+tzjiosl 1f, 2f, 3f, 4
+tzjilos 1f, 5f, 6
+tzjilso 1f, 5f, 6
+tzjisol 1f, 2f, 3f, 4
+tzjislo 1f, 6
+tzjoils 1f, 2f, 3f, 4
+tzjoisl 1f, 2f, 3f, 4
+tzjolis 1f, 2e, 3f, 6f
+tzjolsi 2e, 3f, 6f
+tzjosil 2f, 3f, 4
+tzjosli 2e, 3f, 6f
+tzjlios 1f, 5f, 6e
+tzjliso 1f, 5f, 6e
+tzjlois 1f, 2e, 6e
+tzjlosi 2e, 6e
+tzjlsio 5f, 6e
+tzjlsoi 2e, 6e
+tzjsiol 2f, 3f, 4
+tzjsilo 6
+tzjsoil 2f, 3f, 4
+tzjsoli 2e, 3f, 6f
+tzjslio 6e
+tzjsloi 2e, 6e
+tzliojs 1f, 2, 3, 5f
+tzliosj 1f, 2, 3, 5f
+tzlijos 1f, 5f, 6f
+tzlijso 1f, 5f, 6f
+tzlisoj 1f, 2, 3, 5f
+tzlisjo 1f, 5f, 6f
+tzloijs 1f, 2e, 3
+tzloisj 1f, 2, 3
+tzlojis 1f, 2e, 3, 6
+tzlojsi 2e, 3, 6
+tzlosij 2, 3, 4f
+tzlosji 2e, 3, 6
+tzljios 1f, 5f, 6e
+tzljiso 1f, 5f, 6e
+tzljois 1f, 2e, 6e
+tzljosi 2e, 6e
+tzljsio 5f, 6e
+tzljsoi 2e, 6e
+tzlsioj 2, 3, 4f, 5f
+tzlsijo 5f, 6f
+tzlsoij 2, 3, 4f
+tzlsoji 2e, 3, 6
+tzlsjio 5f, 6e
+tzlsjoi 2e, 6e
+tzsiojl 4e, 7
+tzsiolj 4e, 7f
+tzsijol 3f, 4, 7
+tzsijlo 7
+tzsiloj 3, 4f, 7f
+tzsiljo 7f
+tzsoijl 4e
+tzsoilj 4e
+tzsojil 2f, 4
+tzsojli 2e
+tzsolij 2, 4f
+tzsolji 2e
+tzsjiol 2f, 3f, 4
+tzsjilo 6
+tzsjoil 2f, 3f, 4
+tzsjoli 2e, 3f, 6f
+tzsjlio 6e
+tzsjloi 2e, 6e
+tzslioj 2, 3, 4f
+tzslijo 6f
+tzsloij 2, 3, 4f
+tzsloji 2e, 3, 6
+tzsljio 6e
+tzsljoi 2e, 6e
